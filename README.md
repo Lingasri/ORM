@@ -56,7 +56,8 @@ class EmployeeAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![Alt text](<screenshot (275).png>)
+![image](https://github.com/Lingasri/ORM/assets/143391929/aa77006a-b449-4117-9c86-198ea6b3292b)
+
 
 
 ## RESULT
